@@ -1,0 +1,976 @@
+мар. 23, 2026 8:25:36 PM main.Main main
+SEVERE: input1.txt (Не удается найти указанный файл)
+мар. 23, 2026 8:25:36 PM operation.DefineD set
+INFO: operation.DefineD@2f01783a is configured by A - 5.0
+мар. 23, 2026 8:25:36 PM operation.DefineD apply
+INFO: operation.DefineD@2f01783a defined A as 5.0
+мар. 23, 2026 8:25:36 PM operation.PushD set
+INFO: operation.PushD@7fd7a283 is configured by A
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 25.0
+мар. 23, 2026 8:25:36 PM operation.DefineD set
+INFO: operation.DefineD@2f01783a is configured by 5 - 10.0
+мар. 23, 2026 8:25:36 PM operation.DefineD apply
+INFO: operation.DefineD@2f01783a defined 5 as 10.0
+мар. 23, 2026 8:25:36 PM operation.PushD set
+INFO: operation.PushD@7fd7a283 is configured by 5
+мар. 23, 2026 8:25:36 PM operation.PushD set
+INFO: operation.PushD@7fd7a283 is configured by A
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 50.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: -0.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: -0.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 1.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 0.019973395437277545
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: -0.019973395437277545
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 0.04060975609756102
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: -2.3283064365386963E-9
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 2.3283064376228985E-9
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 2.781342323134002E-308
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 2.781342323134002E-308
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 50.0666
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 1.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: -1.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 2.0331924146341485
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: -1.1657038703560829E-7
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 1.1657038708989061E-7
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 1.3925235355542083E-306
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 1.3925235355542083E-306
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: -50.0666
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: -1.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 1.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: -2.0331924146341485
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 1.1657038703560829E-7
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: -1.1657038708989061E-7
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: -1.3925235355542083E-306
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: -1.3925235355542083E-306
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 24.624624624624598
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 0.49183736512214926
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: -0.49183736512214926
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 1.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: -5.733367201086273E-8
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 5.7333672037560806E-8
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 6.8489510659756135E-307
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 6.8489510659756135E-307
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: -4.294967296E8
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: -8578508.019318268
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 8578508.019318268
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: -1.7441757433756117E7
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 1.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: -1.0000000004656613
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: -1.1945774316841204E-299
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: -1.1945774316841204E-299
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 4.294967294E8
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 8578508.015323589
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: -8578508.015323589
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 1.7441757425634164E7
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: -0.9999999995343387
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 1.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 1.1945774311278518E-299
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 1.1945774311278518E-299
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: -0.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: -0.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: -0.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: -0.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 3.5953862697246315E307
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 7.18120717149683E305
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: -7.18120717149683E305
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 1.46007759490037E306
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: -8.3711609936427125E298
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 8.371160997540839E298
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 1.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 1.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 3.5953862697246315E307
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 7.18120717149683E305
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: -7.18120717149683E305
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 1.46007759490037E306
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: -8.3711609936427125E298
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 8.371160997540839E298
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 1.0
+мар. 23, 2026 8:25:36 PM operation.DivisionD apply
+INFO: Result: 1.0
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -5.0
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -250.333
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 250.333
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -123.123123123123
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 2.147483648E9
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -2.147483647E9
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 5.0
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -245.333
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 255.333
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -118.123123123123
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 2.147483653E9
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -2.147483642E9
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 5.0
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 5.0
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 250.333
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 245.333
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 500.666
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 127.209876876877
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 2.147483898333E9
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -2.147483396667E9
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 250.333
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 250.333
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -250.333
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -255.333
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -500.666
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -373.456123123123
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 2.147483397667E9
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -2.147483897333E9
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -250.333
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -250.333
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 123.123123123123
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 118.123123123123
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -127.209876876877
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 373.456123123123
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 2.147483771123123E9
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -2.1474835238768768E9
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 123.123123123123
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 123.123123123123
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -2.147483648E9
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -2.147483653E9
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -2.147483898333E9
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -2.147483397667E9
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -2.147483771123123E9
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -4.294967295E9
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -2.147483648E9
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -2.147483648E9
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 2.147483647E9
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 2.147483642E9
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 2.147483396667E9
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 2.147483897333E9
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 2.1474835238768768E9
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 4.294967295E9
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 2.147483647E9
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 2.147483647E9
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -5.0
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -250.333
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 250.333
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -123.123123123123
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 2.147483648E9
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -2.147483647E9
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -5.0
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -250.333
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 250.333
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -123.123123123123
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 2.147483648E9
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -2.147483647E9
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: -1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.MinusD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 5.0
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 250.333
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: -250.333
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 123.123123123123
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: -2.147483648E9
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 2.147483647E9
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 5.0
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 10.0
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 255.333
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: -245.333
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 128.12312312312298
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: -2.147483643E9
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 2.147483652E9
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 5.0
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 5.0
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 250.333
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 255.333
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 500.666
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 373.456123123123
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: -2.147483397667E9
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 2.147483897333E9
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 250.333
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 250.333
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: -250.333
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: -245.333
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: -500.666
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: -127.209876876877
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: -2.147483898333E9
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 2.147483396667E9
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: -250.333
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: -250.333
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 123.123123123123
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 128.12312312312298
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 373.456123123123
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: -127.209876876877
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 246.246246246246
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: -2.1474835248768768E9
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 2.147483770123123E9
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 123.123123123123
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 123.123123123123
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: -2.147483648E9
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: -2.147483643E9
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: -2.147483397667E9
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: -2.147483898333E9
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: -2.1474835248768768E9
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: -4.294967296E9
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: -1.0
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: -2.147483648E9
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: -2.147483648E9
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 2.147483647E9
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 2.147483652E9
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 2.147483897333E9
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 2.147483396667E9
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 2.147483770123123E9
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: -1.0
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 4.294967294E9
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 2.147483647E9
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 2.147483647E9
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 5.0
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 250.333
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: -250.333
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 123.123123123123
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: -2.147483648E9
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 2.147483647E9
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 5.0
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 250.333
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: -250.333
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 123.123123123123
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: -2.147483648E9
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 2.147483647E9
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: Infinity
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: Infinity
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: Infinity
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: Infinity
+мар. 23, 2026 8:25:36 PM operation.PopD apply
+INFO: Pop'ed: 5.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 25.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 1251.665
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -1251.665
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 615.615615615615
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -1.073741824E10
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 1.0737418235E10
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: Infinity
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: Infinity
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 1251.665
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 62666.610888999996
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -62666.610888999996
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 30821.780780780748
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -5.37586024054784E11
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 5.37586023804451E11
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: Infinity
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: Infinity
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -1251.665
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -62666.610888999996
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 62666.610888999996
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -30821.780780780748
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 5.37586024054784E11
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -5.37586023804451E11
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -Infinity
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -Infinity
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 615.615615615615
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 30821.780780780748
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -30821.780780780748
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 15159.303447591705
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -2.6440489359759732E11
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 2.644048934744742E11
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: Infinity
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: Infinity
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -1.073741824E10
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -5.37586024054784E11
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 5.37586024054784E11
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -2.6440489359759732E11
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 4.611686018427388E18
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -4.611686016279904E18
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -Infinity
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -Infinity
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 1.0737418235E10
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 5.37586023804451E11
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -5.37586023804451E11
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 2.644048934744742E11
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -4.611686016279904E18
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 4.6116860141324206E18
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: Infinity
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: Infinity
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: Infinity
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: Infinity
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -Infinity
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: Infinity
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -Infinity
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: Infinity
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: Infinity
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: Infinity
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: Infinity
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: Infinity
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -Infinity
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: Infinity
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: -Infinity
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: Infinity
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: Infinity
+мар. 23, 2026 8:25:36 PM operation.ProductD apply
+INFO: Result: Infinity
+мар. 23, 2026 8:25:36 PM operation.PushD set
+INFO: operation.PushD@3e62d773 is configured by A
+мар. 23, 2026 8:25:36 PM operation.PushD set
+INFO: operation.PushD@3e62d773 is configured by 3,14
+мар. 23, 2026 8:25:36 PM operation.PushD set
+INFO: operation.PushD@3e62d773 is configured by 2.0
+мар. 23, 2026 8:25:36 PM operation.PlusD apply
+INFO: Result: 4.0
+мар. 23, 2026 8:25:36 PM operation.PushD set
+INFO: operation.PushD@3e62d773 is configured by 0.0
+мар. 23, 2026 8:25:36 PM operation.PushD set
+INFO: operation.PushD@3e62d773 is configured by 5.0
+мар. 23, 2026 8:25:36 PM operation.PushD set
+INFO: operation.PushD@3e62d773 is configured by 250.333
+мар. 23, 2026 8:25:36 PM operation.PushD set
+INFO: operation.PushD@3e62d773 is configured by -250.333
+мар. 23, 2026 8:25:36 PM operation.PushD set
+INFO: operation.PushD@3e62d773 is configured by 123.123123123123
+мар. 23, 2026 8:25:36 PM operation.PushD set
+INFO: operation.PushD@3e62d773 is configured by -2.147483648E9
+мар. 23, 2026 8:25:36 PM operation.PushD set
+INFO: operation.PushD@3e62d773 is configured by 2.147483647E9
+мар. 23, 2026 8:25:36 PM operation.PushD set
+INFO: operation.PushD@3e62d773 is configured by 0.0
+мар. 23, 2026 8:25:36 PM operation.PushD set
+INFO: operation.PushD@3e62d773 is configured by 0.0
+мар. 23, 2026 8:25:36 PM operation.PushD set
+INFO: operation.PushD@3e62d773 is configured by 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.PushD set
+INFO: operation.PushD@3e62d773 is configured by 1.7976931348623157E308
+мар. 23, 2026 8:25:36 PM operation.SqrtD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.SqrtD apply
+INFO: Result: 2.23606797749979
+мар. 23, 2026 8:25:36 PM operation.SqrtD apply
+INFO: Result: 15.821915181165648
+мар. 23, 2026 8:25:36 PM operation.SqrtD apply
+INFO: Result: NaN
+мар. 23, 2026 8:25:36 PM operation.SqrtD apply
+INFO: Result: 11.096085937082634
+мар. 23, 2026 8:25:36 PM operation.SqrtD apply
+INFO: Result: NaN
+мар. 23, 2026 8:25:36 PM operation.SqrtD apply
+INFO: Result: 46340.950001051984
+мар. 23, 2026 8:25:36 PM operation.SqrtD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.SqrtD apply
+INFO: Result: 0.0
+мар. 23, 2026 8:25:36 PM operation.SqrtD apply
+INFO: Result: 1.3407807929942596E154
+мар. 23, 2026 8:25:36 PM operation.SqrtD apply
+INFO: Result: 1.3407807929942596E154
