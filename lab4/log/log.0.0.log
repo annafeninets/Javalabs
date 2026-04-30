@@ -1,0 +1,578 @@
+апр. 27, 2026 11:16:57 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=1> was created. [0m
+апр. 27, 2026 11:16:57 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=4> was created. [0m
+апр. 27, 2026 11:16:57 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=1> was created. [0m
+апр. 27, 2026 11:16:57 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=5> was created. [0m
+апр. 27, 2026 11:16:57 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=2> was created. [0m
+апр. 27, 2026 11:16:57 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=1> was created. [0m
+апр. 27, 2026 11:16:57 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=3> was created. [0m
+апр. 27, 2026 11:16:57 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=2> was created. [0m
+апр. 27, 2026 11:16:57 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=3> was created. [0m
+апр. 27, 2026 11:16:57 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=4> was created. [0m
+апр. 27, 2026 11:16:57 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=5> was created. [0m
+апр. 27, 2026 11:16:57 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=6> was created. [0m
+апр. 27, 2026 11:16:57 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=7> was created. [0m
+апр. 27, 2026 11:16:57 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=8> was created. [0m
+апр. 27, 2026 11:16:57 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=9> was created. [0m
+апр. 27, 2026 11:16:57 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=10> was created. [0m
+апр. 27, 2026 11:16:57 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=11> was created. [0m
+апр. 27, 2026 11:16:57 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=12> was created. [0m
+апр. 27, 2026 11:16:57 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=2> was created. [0m
+апр. 27, 2026 11:16:57 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 0: Auto 1 (Body: 1, Motor: 1, Accessory: 1)
+апр. 27, 2026 11:16:57 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 4: Auto 2 (Body: 2, Motor: 2, Accessory: 2)
+апр. 27, 2026 11:16:57 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=13> was created. [0m
+апр. 27, 2026 11:16:57 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 2: Auto 3 (Body: 3, Motor: 3, Accessory: 3)
+апр. 27, 2026 11:16:57 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=3> was created. [0m
+апр. 27, 2026 11:16:57 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 3: Auto 4 (Body: 4, Motor: 4, Accessory: 4)
+апр. 27, 2026 11:16:57 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=14> was created. [0m
+апр. 27, 2026 11:16:57 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=4> was created. [0m
+апр. 27, 2026 11:16:58 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=5> was created. [0m
+апр. 27, 2026 11:16:58 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=15> was created. [0m
+апр. 27, 2026 11:16:58 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 1: Auto 5 (Body: 5, Motor: 5, Accessory: 5)
+апр. 27, 2026 11:16:58 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=6> was created. [0m
+апр. 27, 2026 11:16:58 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=16> was created. [0m
+апр. 27, 2026 11:16:58 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=8> was created. [0m
+апр. 27, 2026 11:16:58 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=9> was created. [0m
+апр. 27, 2026 11:16:58 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=6> was created. [0m
+апр. 27, 2026 11:16:58 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 0: Auto 6 (Body: 6, Motor: 6, Accessory: 7)
+апр. 27, 2026 11:16:58 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=10> was created. [0m
+апр. 27, 2026 11:16:58 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=7> was created. [0m
+апр. 27, 2026 11:16:58 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 4: Auto 7 (Body: 7, Motor: 7, Accessory: 6)
+апр. 27, 2026 11:16:58 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=17> was created. [0m
+апр. 27, 2026 11:16:58 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=7> was created. [0m
+апр. 27, 2026 11:16:59 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=8> was created. [0m
+апр. 27, 2026 11:16:59 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 2: Auto 8 (Body: 8, Motor: 8, Accessory: 8)
+апр. 27, 2026 11:16:59 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=18> was created. [0m
+апр. 27, 2026 11:16:59 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=19> was created. [0m
+апр. 27, 2026 11:16:59 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 3: Auto 9 (Body: 9, Motor: 9, Accessory: 9)
+апр. 27, 2026 11:16:59 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=9> was created. [0m
+апр. 27, 2026 11:16:59 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 1: Auto 10 (Body: 10, Motor: 10, Accessory: 10)
+апр. 27, 2026 11:16:59 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=10> was created. [0m
+апр. 27, 2026 11:16:59 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=20> was created. [0m
+апр. 27, 2026 11:17:00 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=11> was created. [0m
+апр. 27, 2026 11:17:00 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=21> was created. [0m
+апр. 27, 2026 11:17:00 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 0: Auto 11 (Body: 11, Motor: 11, Accessory: 11)
+апр. 27, 2026 11:17:00 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=12> was created. [0m
+апр. 27, 2026 11:17:00 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=13> was created. [0m
+апр. 27, 2026 11:17:00 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=11> was created. [0m
+апр. 27, 2026 11:17:00 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=14> was created. [0m
+апр. 27, 2026 11:17:00 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=15> was created. [0m
+апр. 27, 2026 11:17:00 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=12> was created. [0m
+апр. 27, 2026 11:17:00 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 4: Auto 12 (Body: 12, Motor: 12, Accessory: 12)
+апр. 27, 2026 11:17:00 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=22> was created. [0m
+апр. 27, 2026 11:17:00 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=13> was created. [0m
+апр. 27, 2026 11:17:00 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=23> was created. [0m
+апр. 27, 2026 11:17:00 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 2: Auto 13 (Body: 13, Motor: 13, Accessory: 13)
+апр. 27, 2026 11:17:01 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=14> was created. [0m
+апр. 27, 2026 11:17:01 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 3: Auto 14 (Body: 14, Motor: 14, Accessory: 14)
+апр. 27, 2026 11:17:01 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=24> was created. [0m
+апр. 27, 2026 11:17:01 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=25> was created. [0m
+апр. 27, 2026 11:17:01 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 1: Auto 15 (Body: 15, Motor: 15, Accessory: 15)
+апр. 27, 2026 11:17:01 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=15> was created. [0m
+апр. 27, 2026 11:17:01 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=26> was created. [0m
+апр. 27, 2026 11:17:01 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=16> was created. [0m
+апр. 27, 2026 11:17:01 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 0: Auto 16 (Body: 16, Motor: 16, Accessory: 16)
+апр. 27, 2026 11:17:01 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=16> was created. [0m
+апр. 27, 2026 11:17:01 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=17> was created. [0m
+апр. 27, 2026 11:17:01 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=18> was created. [0m
+апр. 27, 2026 11:17:01 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=20> was created. [0m
+апр. 27, 2026 11:17:01 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=19> was created. [0m
+апр. 27, 2026 11:17:01 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 4: Auto 17 (Body: 17, Motor: 17, Accessory: 18)
+апр. 27, 2026 11:17:01 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=27> was created. [0m
+апр. 27, 2026 11:17:01 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=17> was created. [0m
+апр. 27, 2026 11:17:02 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 2: Auto 18 (Body: 18, Motor: 18, Accessory: 17)
+апр. 27, 2026 11:17:02 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=28> was created. [0m
+апр. 27, 2026 11:17:02 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=18> was created. [0m
+апр. 27, 2026 11:17:02 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 3: Auto 19 (Body: 19, Motor: 19, Accessory: 19)
+апр. 27, 2026 11:17:02 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=29> was created. [0m
+апр. 27, 2026 11:17:02 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=19> was created. [0m
+апр. 27, 2026 11:17:02 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=20> was created. [0m
+апр. 27, 2026 11:17:02 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=30> was created. [0m
+апр. 27, 2026 11:17:02 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 1: Auto 20 (Body: 20, Motor: 20, Accessory: 20)
+апр. 27, 2026 11:17:03 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=31> was created. [0m
+апр. 27, 2026 11:17:03 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=21> was created. [0m
+апр. 27, 2026 11:17:03 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=21> was created. [0m
+апр. 27, 2026 11:17:03 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 0: Auto 21 (Body: 21, Motor: 21, Accessory: 21)
+апр. 27, 2026 11:17:03 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=22> was created. [0m
+апр. 27, 2026 11:17:03 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=23> was created. [0m
+апр. 27, 2026 11:17:03 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=24> was created. [0m
+апр. 27, 2026 11:17:03 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=25> was created. [0m
+апр. 27, 2026 11:17:03 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=32> was created. [0m
+апр. 27, 2026 11:17:03 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=22> was created. [0m
+апр. 27, 2026 11:17:03 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 4: Auto 22 (Body: 22, Motor: 22, Accessory: 22)
+апр. 27, 2026 11:17:03 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=23> was created. [0m
+апр. 27, 2026 11:17:03 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=33> was created. [0m
+апр. 27, 2026 11:17:03 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 2: Auto 23 (Body: 23, Motor: 23, Accessory: 23)
+апр. 27, 2026 11:17:04 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=34> was created. [0m
+апр. 27, 2026 11:17:04 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=24> was created. [0m
+апр. 27, 2026 11:17:04 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 3: Auto 24 (Body: 24, Motor: 24, Accessory: 24)
+апр. 27, 2026 11:17:04 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=35> was created. [0m
+апр. 27, 2026 11:17:04 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 1: Auto 25 (Body: 25, Motor: 25, Accessory: 25)
+апр. 27, 2026 11:17:04 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=25> was created. [0m
+апр. 27, 2026 11:17:04 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=26> was created. [0m
+апр. 27, 2026 11:17:04 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=36> was created. [0m
+апр. 27, 2026 11:17:04 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=27> was created. [0m
+апр. 27, 2026 11:17:04 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=37> was created. [0m
+апр. 27, 2026 11:17:04 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 0: Auto 26 (Body: 26, Motor: 26, Accessory: 26)
+апр. 27, 2026 11:17:04 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=26> was created. [0m
+апр. 27, 2026 11:17:04 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=27> was created. [0m
+апр. 27, 2026 11:17:04 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 4: Auto 27 (Body: 27, Motor: 27, Accessory: 27)
+апр. 27, 2026 11:17:04 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=28> was created. [0m
+апр. 27, 2026 11:17:04 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=29> was created. [0m
+апр. 27, 2026 11:17:04 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=30> was created. [0m
+апр. 27, 2026 11:17:05 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 2: Auto 28 (Body: 28, Motor: 28, Accessory: 28)
+апр. 27, 2026 11:17:05 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=38> was created. [0m
+апр. 27, 2026 11:17:05 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=28> was created. [0m
+апр. 27, 2026 11:17:05 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=29> was created. [0m
+апр. 27, 2026 11:17:05 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 3: Auto 29 (Body: 29, Motor: 29, Accessory: 29)
+апр. 27, 2026 11:17:05 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=39> was created. [0m
+апр. 27, 2026 11:17:05 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=30> was created. [0m
+апр. 27, 2026 11:17:05 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 1: Auto 30 (Body: 30, Motor: 30, Accessory: 30)
+апр. 27, 2026 11:17:05 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=40> was created. [0m
+апр. 27, 2026 11:17:06 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=31> was created. [0m
+апр. 27, 2026 11:17:06 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=41> was created. [0m
+апр. 27, 2026 11:17:06 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=42> was created. [0m
+апр. 27, 2026 11:17:06 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=32> was created. [0m
+апр. 27, 2026 11:17:06 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 0: Auto 31 (Body: 31, Motor: 31, Accessory: 31)
+апр. 27, 2026 11:17:06 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=31> was created. [0m
+апр. 27, 2026 11:17:06 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 4: Auto 32 (Body: 32, Motor: 32, Accessory: 32)
+апр. 27, 2026 11:17:06 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=32> was created. [0m
+апр. 27, 2026 11:17:06 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=33> was created. [0m
+апр. 27, 2026 11:17:06 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=34> was created. [0m
+апр. 27, 2026 11:17:06 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=35> was created. [0m
+апр. 27, 2026 11:17:06 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 2: Auto 33 (Body: 33, Motor: 33, Accessory: 33)
+апр. 27, 2026 11:17:06 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=43> was created. [0m
+апр. 27, 2026 11:17:06 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=33> was created. [0m
+апр. 27, 2026 11:17:07 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 3: Auto 34 (Body: 34, Motor: 34, Accessory: 34)
+апр. 27, 2026 11:17:07 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=34> was created. [0m
+апр. 27, 2026 11:17:07 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=44> was created. [0m
+апр. 27, 2026 11:17:07 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 1: Auto 35 (Body: 35, Motor: 35, Accessory: 35)
+апр. 27, 2026 11:17:07 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=45> was created. [0m
+апр. 27, 2026 11:17:07 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=35> was created. [0m
+апр. 27, 2026 11:17:07 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=36> was created. [0m
+апр. 27, 2026 11:17:08 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=46> was created. [0m
+апр. 27, 2026 11:17:08 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=37> was created. [0m
+апр. 27, 2026 11:17:08 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=36> was created. [0m
+апр. 27, 2026 11:17:08 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 0: Auto 36 (Body: 36, Motor: 36, Accessory: 36)
+апр. 27, 2026 11:17:08 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=39> was created. [0m
+апр. 27, 2026 11:17:08 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=40> was created. [0m
+апр. 27, 2026 11:17:08 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=37> was created. [0m
+апр. 27, 2026 11:17:08 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=38> was created. [0m
+апр. 27, 2026 11:17:08 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 4: Auto 37 (Body: 37, Motor: 37, Accessory: 40)
+апр. 27, 2026 11:17:08 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 2: Auto 38 (Body: 38, Motor: 38, Accessory: 38)
+апр. 27, 2026 11:17:08 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=38> was created. [0m
+апр. 27, 2026 11:17:08 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 3: Auto 39 (Body: 39, Motor: 39, Accessory: 37)
+апр. 27, 2026 11:17:08 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=39> was created. [0m
+апр. 27, 2026 11:17:08 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=40> was created. [0m
+апр. 27, 2026 11:17:08 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 1: Auto 40 (Body: 40, Motor: 40, Accessory: 39)
+апр. 27, 2026 11:17:09 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=47> was created. [0m
+апр. 27, 2026 11:17:09 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=41> was created. [0m
+апр. 27, 2026 11:17:09 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=42> was created. [0m
+апр. 27, 2026 11:17:09 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=41> was created. [0m
+апр. 27, 2026 11:17:09 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 0: Auto 41 (Body: 41, Motor: 41, Accessory: 41)
+апр. 27, 2026 11:17:09 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=42> was created. [0m
+апр. 27, 2026 11:17:09 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=43> was created. [0m
+апр. 27, 2026 11:17:09 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 4: Auto 42 (Body: 42, Motor: 42, Accessory: 42)
+апр. 27, 2026 11:17:09 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=44> was created. [0m
+апр. 27, 2026 11:17:09 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=45> was created. [0m
+апр. 27, 2026 11:17:09 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=43> was created. [0m
+апр. 27, 2026 11:17:09 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 2: Auto 43 (Body: 43, Motor: 43, Accessory: 43)
+апр. 27, 2026 11:17:10 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 3: Auto 44 (Body: 44, Motor: 44, Accessory: 44)
+апр. 27, 2026 11:17:10 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=44> was created. [0m
+апр. 27, 2026 11:17:10 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=48> was created. [0m
+апр. 27, 2026 11:17:10 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=45> was created. [0m
+апр. 27, 2026 11:17:10 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 1: Auto 45 (Body: 45, Motor: 45, Accessory: 45)
+апр. 27, 2026 11:17:10 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=46> was created. [0m
+апр. 27, 2026 11:17:11 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=47> was created. [0m
+апр. 27, 2026 11:17:11 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 0: Auto 46 (Body: 46, Motor: 46, Accessory: 46)
+апр. 27, 2026 11:17:11 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=46> was created. [0m
+апр. 27, 2026 11:17:11 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 4: Auto 47 (Body: 47, Motor: 47, Accessory: 47)
+апр. 27, 2026 11:17:11 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=47> was created. [0m
+апр. 27, 2026 11:17:11 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=48> was created. [0m
+апр. 27, 2026 11:17:11 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=49> was created. [0m
+апр. 27, 2026 11:17:11 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=50> was created. [0m
+апр. 27, 2026 11:17:11 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 2: Auto 48 (Body: 48, Motor: 48, Accessory: 48)
+апр. 27, 2026 11:17:11 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=48> was created. [0m
+апр. 27, 2026 11:17:11 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=49> was created. [0m
+апр. 27, 2026 11:17:11 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 3: Auto 49 (Body: 49, Motor: 49, Accessory: 49)
+апр. 27, 2026 11:17:11 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=49> was created. [0m
+апр. 27, 2026 11:17:11 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=50> was created. [0m
+апр. 27, 2026 11:17:12 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=51> was created. [0m
+апр. 27, 2026 11:17:12 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=52> was created. [0m
+апр. 27, 2026 11:17:12 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 1: Auto 50 (Body: 50, Motor: 50, Accessory: 50)
+апр. 27, 2026 11:17:12 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=50> was created. [0m
+апр. 27, 2026 11:17:12 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=53> was created. [0m
+апр. 27, 2026 11:17:12 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=51> was created. [0m
+апр. 27, 2026 11:17:12 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=52> was created. [0m
+апр. 27, 2026 11:17:12 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=54> was created. [0m
+апр. 27, 2026 11:17:12 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=53> was created. [0m
+апр. 27, 2026 11:17:12 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=55> was created. [0m
+апр. 27, 2026 11:17:13 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=54> was created. [0m
+апр. 27, 2026 11:17:13 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=55> was created. [0m
+апр. 27, 2026 11:17:13 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=56> was created. [0m
+апр. 27, 2026 11:17:14 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=57> was created. [0m
+апр. 27, 2026 11:17:14 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 0: Auto 51 (Body: 51, Motor: 51, Accessory: 51)
+апр. 27, 2026 11:17:14 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=51> was created. [0m
+апр. 27, 2026 11:17:14 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=58> was created. [0m
+апр. 27, 2026 11:17:14 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=56> was created. [0m
+апр. 27, 2026 11:17:14 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=57> was created. [0m
+апр. 27, 2026 11:17:14 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=58> was created. [0m
+апр. 27, 2026 11:17:14 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=59> was created. [0m
+апр. 27, 2026 11:17:14 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=60> was created. [0m
+апр. 27, 2026 11:17:14 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=59> was created. [0m
+апр. 27, 2026 11:17:15 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=60> was created. [0m
+апр. 27, 2026 11:17:15 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=61> was created. [0m
+апр. 27, 2026 11:17:15 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=62> was created. [0m
+апр. 27, 2026 11:17:15 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 4: Auto 52 (Body: 52, Motor: 52, Accessory: 52)
+апр. 27, 2026 11:17:15 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=52> was created. [0m
+апр. 27, 2026 11:17:15 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=63> was created. [0m
+апр. 27, 2026 11:17:16 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=61> was created. [0m
+апр. 27, 2026 11:17:16 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=62> was created. [0m
+апр. 27, 2026 11:17:16 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=64> was created. [0m
+апр. 27, 2026 11:17:16 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=65> was created. [0m
+апр. 27, 2026 11:17:16 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=66> was created. [0m
+апр. 27, 2026 11:17:17 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=67> was created. [0m
+апр. 27, 2026 11:17:17 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=63> was created. [0m
+апр. 27, 2026 11:17:17 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=53> was created. [0m
+апр. 27, 2026 11:17:17 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 2: Auto 53 (Body: 62, Motor: 53, Accessory: 53)
+апр. 27, 2026 11:17:17 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=68> was created. [0m
+апр. 27, 2026 11:17:17 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=69> was created. [0m
+апр. 27, 2026 11:17:18 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=70> was created. [0m
+апр. 27, 2026 11:17:18 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=71> was created. [0m
+апр. 27, 2026 11:17:18 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=72> was created. [0m
+апр. 27, 2026 11:17:18 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=73> was created. [0m
+апр. 27, 2026 11:17:19 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=64> was created. [0m
+апр. 27, 2026 11:17:19 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=54> was created. [0m
+апр. 27, 2026 11:17:19 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 3: Auto 54 (Body: 53, Motor: 54, Accessory: 54)
+апр. 27, 2026 11:17:19 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=74> was created. [0m
+апр. 27, 2026 11:17:20 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=75> was created. [0m
+апр. 27, 2026 11:17:20 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 1: Auto 55 (Body: 54, Motor: 55, Accessory: 55)
+апр. 27, 2026 11:17:20 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=55> was created. [0m
+апр. 27, 2026 11:17:20 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=65> was created. [0m
+апр. 27, 2026 11:17:22 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=76> was created. [0m
+апр. 27, 2026 11:17:22 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=66> was created. [0m
+апр. 27, 2026 11:17:22 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 0: Auto 56 (Body: 63, Motor: 56, Accessory: 56)
+апр. 27, 2026 11:17:22 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=56> was created. [0m
+апр. 27, 2026 11:17:23 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=77> was created. [0m
+апр. 27, 2026 11:17:23 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=67> was created. [0m
+апр. 27, 2026 11:17:23 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 4: Auto 57 (Body: 64, Motor: 57, Accessory: 57)
+апр. 27, 2026 11:17:23 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=57> was created. [0m
+апр. 27, 2026 11:17:25 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=78> was created. [0m
+апр. 27, 2026 11:17:25 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=68> was created. [0m
+апр. 27, 2026 11:17:25 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=58> was created. [0m
+апр. 27, 2026 11:17:25 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 2: Auto 58 (Body: 66, Motor: 58, Accessory: 58)
+апр. 27, 2026 11:17:27 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=79> was created. [0m
+апр. 27, 2026 11:17:27 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=59> was created. [0m
+апр. 27, 2026 11:17:27 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 3: Auto 59 (Body: 65, Motor: 59, Accessory: 59)
+апр. 27, 2026 11:17:27 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=69> was created. [0m
+апр. 27, 2026 11:17:28 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 1: Auto 60 (Body: 55, Motor: 60, Accessory: 60)
+апр. 27, 2026 11:17:28 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=60> was created. [0m
+апр. 27, 2026 11:17:28 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=80> was created. [0m
+апр. 27, 2026 11:17:28 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=70> was created. [0m
+апр. 27, 2026 11:17:30 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=71> was created. [0m
+апр. 27, 2026 11:17:30 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=81> was created. [0m
+апр. 27, 2026 11:17:30 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=61> was created. [0m
+апр. 27, 2026 11:17:30 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 0: Auto 61 (Body: 56, Motor: 61, Accessory: 61)
+апр. 27, 2026 11:17:31 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=72> was created. [0m
+апр. 27, 2026 11:17:31 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 4: Auto 62 (Body: 70, Motor: 62, Accessory: 62)
+апр. 27, 2026 11:17:31 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=82> was created. [0m
+апр. 27, 2026 11:17:31 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=62> was created. [0m
+апр. 27, 2026 11:17:33 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=83> was created. [0m
+апр. 27, 2026 11:17:33 AM factory.dealer.Dealer$Task doTask
+INFO: New car was bought. Dealer 2: Auto 63 (Body: 71, Motor: 63, Accessory: 63)
+апр. 27, 2026 11:17:33 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=77> was created. [0m
+апр. 27, 2026 11:17:33 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [95m Product Engine<ID=63> was created. [0m
+апр. 27, 2026 11:17:34 AM factory.Factory closeFabric
+INFO: FABRIC CLOSED
+апр. 27, 2026 11:17:34 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=75> was created. [0m
+апр. 27, 2026 11:17:34 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=74> was created. [0m
+апр. 27, 2026 11:17:34 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=76> was created. [0m
+апр. 27, 2026 11:17:34 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=73> was created. [0m
+апр. 27, 2026 11:17:34 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [34m Product Accessory<ID=78> was created. [0m
+апр. 27, 2026 11:17:34 AM factory.provision.Provider$ManufacturingProcess doCreation
+INFO: [32m Product Body<ID=84> was created. [0m
